@@ -19,7 +19,7 @@ Negative Displacement
 
 CIRCUIT DIAGRAM
 
-![alt text](<Circuit Diagram.jpeg>)
+![image alt](https://github.com/saudhrafi/EXP-6/blob/54cbcd34ff8db4865eb89a2bb66658510c6328cb/WhatsApp%20Image%202026-03-20%20at%2012.07.01%20PM.jpeg)
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
@@ -30,22 +30,22 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+![image alt](https://github.com/saudhrafi/EXP-6/blob/54cbcd34ff8db4865eb89a2bb66658510c6328cb/WhatsApp%20Image%202026-03-20%20at%2012.07.02%20PM.jpeg)
 
-![alt text](Tabulation.jpeg)
 
 CALCULATION
 
-![alt text](Calculation.jpeg)
+![image alt](https://github.com/saudhrafi/EXP-6/blob/54cbcd34ff8db4865eb89a2bb66658510c6328cb/WhatsApp%20Image%202026-03-20%20at%2012.07.02%20PM%20(1).jpeg)
 
 MODEL GRAPH
 
 POSITIVE DISPLACEMENT
 
-![alt text](<Positive Displacement graph.jpeg>)
+![image alt](https://github.com/saudhrafi/EXP-6/blob/54cbcd34ff8db4865eb89a2bb66658510c6328cb/WhatsApp%20Image%202026-03-20%20at%2012.07.02%20PM%20(2).jpeg)
 
 NEGATIVE DISPLACEMENT
 
-![alt text](<Negative Displacement graph.jpeg>)
+![image alt](https://github.com/saudhrafi/EXP-6/blob/54cbcd34ff8db4865eb89a2bb66658510c6328cb/WhatsApp%20Image%202026-03-20%20at%2012.07.02%20PM%20(3).jpeg)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
